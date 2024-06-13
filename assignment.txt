@@ -1,0 +1,11 @@
+                                 GIT OPERATIONS
+
+
+ 1.initiate git                -git init
+ 2.adding single file          -git add filename
+ 3.adding all file or folder   -git add . or git add -A
+ 4.checking status             -git status
+ 5.to check local server name  -git log
+ 5.to commit file              -git commit -m "any name"
+ 6.push file into git          -
+ 
